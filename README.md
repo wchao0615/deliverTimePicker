@@ -1,5 +1,12 @@
 # 配送时间选择器
 
+## 示例
+[图片一][1]
+[图片二][2]
+
+[1]:https://file.gugubao.cn/api/FileUpLoad/OssDownLoad?uniqueCode=2020060916052067110401
+[2]:https://file.gugubao.cn/api/FileUpLoad/OssDownLoad?uniqueCode=2020060916102178680651
+
 ## 如何在本地运行
 * 1、安装[Taro脚手架](https://taro-docs.jd.com/taro/docs/GETTING-STARTED)。这里使用的Taro版本是2.1。如果不是2.1版本，请查看[这里](https://taro-docs.jd.com/taro/docs/GETTING-STARTED#%E4%BF%9D%E6%8C%81-tarojscli-%E7%9A%84%E7%89%88%E6%9C%AC%E4%B8%8E%E5%90%84%E7%AB%AF%E4%BE%9D%E8%B5%96%E7%89%88%E6%9C%AC%E4%B8%80%E8%87%B4)。
 * 2、安装[Mobx](https://taro-docs.jd.com/taro/docs/mobx)
